@@ -6,3 +6,5 @@ feature_3: test 3
 feature_4: test 4
 feature_5: test 5
 feature_6: test 6
+
+feature_7: test 7
